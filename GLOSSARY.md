@@ -13,7 +13,7 @@ The full guided sequence of pills from where the business is now to ready. One j
 _Avoid_: course, program
 
 **Path**:
-The destination the owner picks: sell the business, get a loan / financing, raise from investors, or win grants. Paths share foundation pills and diverge on path-specific pills.
+The destination the owner picks: open a business, sell the business, get a loan / financing, raise from investors, or win grants. Paths share foundation pills and diverge on path-specific pills.
 _Avoid_: track, funnel
 
 **Have**:

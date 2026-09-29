@@ -19,7 +19,7 @@ A proactive readiness journal for small businesses. Where the personal Journal i
 
 - **0001 — Proactive by design.** This app nudges, reminds, and celebrates. A readiness coach that stays silent fails its job. (Deliberate inverse of the Journal's ADR-0003.)
 - **0002 — The have-vs-need ledger.** Every readiness item is HAVE (with evidence attached — no self-certification without proof) or NEED (with a next action). The readiness score derives from this ledger.
-- **0003 — Paths, not one checklist.** Four destinations (sell, loan, investors, grants) share the foundation pills and diverge on path-specific pills. One journey engine, four destinations.
+- **0003 — Paths, not one checklist.** Five destinations (open a business, sell, loan, investors, grants) share the foundation pills and diverge on path-specific pills. One journey engine, five destinations. (ADR-0006 added the open-a-business path.)
 - **0004 — Niche: small retail businesses in California.** Retail has roughly double the compliance surface of SaaS, most of it city-specific and blocking. Compliance density is the wedge. First content: `journeys/california-retail/sf-startup-matrix.md` — SaaS vs. retail vs. nonprofit startup requirements in San Francisco.
 
 ## The fun

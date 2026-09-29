@@ -21,5 +21,5 @@ Design docs and journey content. A private working prototype (v0.1) exists separ
 
 - **Proactive by design** — the app nudges, reminds, and celebrates (deliberate inverse of a silent journal)
 - **Have-need-desirable ledger** — every item is HAVE (with evidence), NEED (with a next action), or DESIRABLE (tracked, aspirational); the readiness score derives from HAVE and NEED only
-- **Paths, not one checklist** — sell, loan, investors, grants share foundation pills and diverge on path pills
+- **Paths, not one checklist** — open, sell, loan, investors, grants share foundation pills and diverge on path pills
 - **Niche: small retail in California** — compliance density is the wedge, starting with San Francisco
