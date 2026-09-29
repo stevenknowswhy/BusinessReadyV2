@@ -1,6 +1,6 @@
 # BusinessReady
 
-A proactive readiness journal for small businesses — bite-sized guided steps ("pills") that document what a business **HAS** versus what it **NEEDS** to become established and ready to sell, borrow, raise investment, or win grants.
+A proactive readiness journal for small businesses — bite-sized guided steps ("pills") that document what a business already has (**HAVE**, with evidence) versus what it still needs (**NEED**, with a next action) to become established and ready to sell, borrow, raise investment, or win grants.
 
 Name is provisional.
 
