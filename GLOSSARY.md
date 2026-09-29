@@ -42,13 +42,13 @@ _Avoid_: notification, alert
 
 ## Two apps, one language contract
 
-BusinessReady and the Journal are separate apps in separate repositories with a shared language contract — same tech-stack principles, no shared code, no borrowed words.
+Cornerstone and the Journal are separate apps in separate repositories with a shared language contract — same tech-stack principles, no shared code, no borrowed words.
 
 - **Cornerstone** (this repo) — a *proactive* readiness journal for small businesses. Its reserved words: pill, journey, path, HAVE, NEED, DESIRABLE, evidence, next action, readiness score, nudge.
 - **Journal** (Stefano's personal app; its own repository to come) — a *silent, reactive* journal. Its reserved words: daily note, capture, 5Ws, people / places / things, conversation mode.
 
 Rules:
 
-1. Neither app borrows the other's reserved words. A Journal entry is never a "pill"; a BusinessReady prompt is never a "notification."
+1. Neither app borrows the other's reserved words. A Journal entry is never a "pill"; a Cornerstone prompt is never a "notification."
 2. Shared words mean the same thing in both: *journal* (a dated record that compounds), *entry* (one unit of record), *proactive* vs. *silent* (whether the app speaks first).
 3. Similar tech stack, separate codebases: local-first, Markdown-canonical, git-versioned. Neither repository depends on the other.

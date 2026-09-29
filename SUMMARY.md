@@ -1,4 +1,4 @@
-# BusinessReady — what we're building (2026-09-29)
+# Cornerstone — what we're building (2026-09-29)
 
 A proactive readiness journal for small businesses. Where the personal Journal is silent unless asked, this app talks first: it takes the owner on a guided journey of bite-sized steps ("pills"), documenting what the business **has** versus what it **needs** to be an established, fundable operation — ready to sell, borrow, raise, or win grants.
 
@@ -33,7 +33,7 @@ Name is provisional.
 
 ## Open questions
 
-- App name (BusinessReady is a working title).
+- App name: Cornerstone (decided 2026-09-29).
 - How evidence is stored (photos of documents? links? uploads?).
 - Whether pills unlock in sequence or are all open from the start.
 - Reminder frequency controls.
