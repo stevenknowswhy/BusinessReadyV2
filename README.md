@@ -1,8 +1,8 @@
-# BusinessReady
+# Cornerstone
+
+Legally Built. Fully Compliant. Lender Ready.
 
 A proactive readiness journal for small businesses — bite-sized guided steps ("pills") that document what a business already has (**HAVE**, with evidence) versus what it still needs (**NEED**, with a next action) to become established and ready to sell, borrow, raise investment, or win grants.
-
-Name is provisional.
 
 ## What's here
 

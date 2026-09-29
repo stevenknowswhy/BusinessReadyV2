@@ -1,4 +1,4 @@
-# BusinessReady
+# Cornerstone
 
 A proactive readiness journal that takes a small business owner on a guided journey from "idea with a name" to fundable, sellable, established business.
 
@@ -44,7 +44,7 @@ _Avoid_: notification, alert
 
 BusinessReady and the Journal are separate apps in separate repositories with a shared language contract — same tech-stack principles, no shared code, no borrowed words.
 
-- **BusinessReady** (this repo) — a *proactive* readiness journal for small businesses. Its reserved words: pill, journey, path, HAVE, NEED, DESIRABLE, evidence, next action, readiness score, nudge.
+- **Cornerstone** (this repo) — a *proactive* readiness journal for small businesses. Its reserved words: pill, journey, path, HAVE, NEED, DESIRABLE, evidence, next action, readiness score, nudge.
 - **Journal** (Stefano's personal app; its own repository to come) — a *silent, reactive* journal. Its reserved words: daily note, capture, 5Ws, people / places / things, conversation mode.
 
 Rules:
