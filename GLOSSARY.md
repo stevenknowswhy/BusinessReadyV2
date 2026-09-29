@@ -24,6 +24,10 @@ _Avoid_: done, checked
 A readiness item still missing, always paired with a concrete next action.
 _Avoid_: todo, gap
 
+**Desirable**:
+A readiness item that would strengthen the business but isn't required for readiness on the chosen path. Tracked, no next action or evidence required. Excluded from the readiness score.
+_Avoid_: nice-to-have, wishlist
+
 **Readiness score**:
 HAVE ÷ (HAVE + NEED), per category and overall. The number the whole app revolves around.
 _Avoid_: grade, rating
@@ -40,7 +44,7 @@ _Avoid_: notification, alert
 
 BusinessReady and the Journal are separate apps in separate repositories with a shared language contract — same tech-stack principles, no shared code, no borrowed words.
 
-- **BusinessReady** (this repo) — a *proactive* readiness journal for small businesses. Its reserved words: pill, journey, path, HAVE, NEED, evidence, next action, readiness score, nudge.
+- **BusinessReady** (this repo) — a *proactive* readiness journal for small businesses. Its reserved words: pill, journey, path, HAVE, NEED, DESIRABLE, evidence, next action, readiness score, nudge.
 - **Journal** (Stefano's personal app; its own repository to come) — a *silent, reactive* journal. Its reserved words: daily note, capture, 5Ws, people / places / things, conversation mode.
 
 Rules:
